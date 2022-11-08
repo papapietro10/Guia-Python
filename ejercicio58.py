@@ -1,4 +1,4 @@
-# extend te ayuda agregar los intenx de una lista en otra 
+# extend te ayuda agregar los intend de una lista en otra 
 frutas=['manzana','banana','uva','fresa']
 limpieza=['trapo','coleto','vanish','blent']
 
